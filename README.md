@@ -1,7 +1,5 @@
 ### Hi, I'm Jeremiah Jacob 👋
 
-Here are some ideas to get you started:
-
 # 💫 About Me :
 - 🔭 I’m currently a fellow at [Qala-Africa](https://qala.dev/).
 - 🌱 I’m currently learning about Bitcoin and Lightning development.

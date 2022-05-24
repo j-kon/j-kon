@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a fellow at [Qala-Africa](https://qala.dev/).
 - 🌱 I’m currently learning about Bitcoin and Lightning development.
 - 👯 I’m looking to collaborate on any Bitcoin and Lighting projects.
-- 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter, Bitcoin, and Lightning development stuff.
 - 📫 How to reach me: [Twitter - @_jaykon_](https://twitter.com/_jaykon_).
 - 😄 Pronouns: He/His

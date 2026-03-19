@@ -1,7 +1,7 @@
 ### Hi, I'm Jeremiah Jacob 👋
 
 # 💫 About Me :
-- 🌱 I’m currently learning about Bitcoin and Lightning development.
+- 🌱 Mobile engineer building Bitcoin wallet infrastructure and experimenting with Lightning systems.
 - 👯 I’m looking to collaborate on any Bitcoin and Lighting projects.
 - 💬 Ask me about Flutter, Bitcoin, and Lightning development stuff.
 - 📫 How to reach me: [Twitter - @jjaykon](https://twitter.com/jjaykon).
